@@ -1,0 +1,2 @@
+# maftuch
+data pengukuran almamater
